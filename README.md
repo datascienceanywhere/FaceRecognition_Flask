@@ -4,6 +4,8 @@ Face recognition is one of the most widely used in my application. If at all you
 
 ![project_output](https://user-images.githubusercontent.com/75901421/184621727-ba0858f1-2151-43af-bc48-3be30dd45f60.gif)
 
+After completion of the course you will develop as shown in URL: <https://genderrecognition-flask.herokuapp.com/>
+
 What you will learn?
 
 1. Python
